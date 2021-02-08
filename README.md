@@ -11,3 +11,9 @@ Single page application
 
 http status codes
 fakerjs
+
+
+
+Host the app using github pages
+
+- add gh pages
